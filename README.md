@@ -548,3 +548,4 @@ Whether using the default ("") or not, we'll refer to it as "walletname" in the 
 You should also now configure the Hot Wallet Sell using the same parameters if you implement it on a BATMThree (or other 2-way).
  
       ##     You're done!
+# sumcoin
